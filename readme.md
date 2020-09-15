@@ -1,11 +1,9 @@
 # HTML Boilerplate
 
 ## Git setting
-download with zip
-``` shell
-git init
-git add . ./css/* ./js/*
-git commit -m "first commit with boilerplate"
+download with zip and open in git bash
+```
+bash git_init.sh
 ```
 
 clone from github
